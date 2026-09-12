@@ -144,17 +144,14 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/RoshniUndhad">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=RoshniUndhad&theme=tokyo-night&hide_border=true&area=true"
-      alt="Roshni's GitHub Activity Graph"
-    />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RoshniUndhad&theme=tokyo-night&hide_border=true&area=true"
+    alt="Roshni's GitHub Activity Graph"
+  />
 </p>
-
 ---
 
 # 📊 GitHub Profile Summary
@@ -181,55 +178,82 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=RoshniUndhad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
 
+<img src="https://img.shields.io/github/followers/RoshniUndhad?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/RoshniUndhad?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://img.shields.io/github/commit-activity/y/RoshniUndhad?style=for-the-badge&logo=github&label=Commit%20Activity" />
+
+</p>
 ---
 
 # ⭐ Featured Projects
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
+### 🔹 Odoo CastMe
+
+A project focused on Odoo-based application development and customization.
+
+<p>
 <a href="https://github.com/RoshniUndhad/odoo_castme">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=RoshniUndhad&repo=odoo_castme&theme=tokyonight&hide_border=true"
-    alt="odoo_castme"
-  />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
 </a>
+</p>
 
+</td>
+
+<td width="50%">
+
+### 🔹 Custom Odoo
+
+Custom Odoo development and application customization project.
+
+<p>
 <a href="https://github.com/RoshniUndhad/custom_odoo">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=RoshniUndhad&repo=custom_odoo&theme=tokyonight&hide_border=true"
-    alt="custom_odoo"
-  />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
 </a>
-
 </p>
 
-<p align="center">
+</td>
+</tr>
 
+<tr>
+
+<td width="50%">
+
+### 🔹 Documentation
+
+Technical documentation and project-related work.
+
+<p>
 <a href="https://github.com/RoshniUndhad/documentation">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=RoshniUndhad&repo=documentation&theme=tokyonight&hide_border=true"
-    alt="documentation"
-  />
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
 </a>
-
-<a href="https://github.com/RoshniUndhad/RoshniUndhad">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=RoshniUndhad&repo=RoshniUndhad&theme=tokyonight&hide_border=true"
-    alt="Profile Repository"
-  />
-</a>
-
 </p>
 
+</td>
+
+<td width="50%">
+
+### 🔹 More Projects
+
+Explore all of my repositories and experiments.
+
+<p>
+<a href="https://github.com/RoshniUndhad?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-0e75b6?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 ---
 
 # 📌 What I'm Building
