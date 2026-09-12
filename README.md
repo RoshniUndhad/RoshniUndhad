@@ -144,12 +144,13 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 
 ---
 
-## 📈 Contribution Activity
+## 📅 GitHub Contribution Calendar
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RoshniUndhad&theme=tokyo-night&hide_border=true&area=true"
-    alt="Roshni's GitHub Activity Graph"
+    src="https://ghchart.rshah.org/58a6ff/RoshniUndhad"
+    alt="Roshni Undhad's GitHub Contribution Calendar"
+    width="100%"
   />
 </p>
 ---
