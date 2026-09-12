@@ -116,23 +116,6 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RoshniUndhad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    alt="Roshni's GitHub Stats"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshniUndhad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
----
-
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
@@ -153,6 +136,7 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
     width="100%"
   />
 </p>
+
 ---
 
 # 📊 GitHub Profile Summary
