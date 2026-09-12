@@ -113,11 +113,6 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 # 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshniUndhad&theme=solarized_light#gh-light-mode-only" alt="GitHub Profile Details Light" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshniUndhad&theme=dark#gh-dark-mode-only" alt="GitHub Profile Details Dark" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoshniUndhad&theme=transparent" alt="Repositories Per Language" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoshniUndhad&theme=transparent" alt="Most Commit Language" width="49%" />
 </p>
