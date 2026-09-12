@@ -172,6 +172,7 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 <img src="https://img.shields.io/github/commit-activity/y/RoshniUndhad?style=for-the-badge&logo=github&label=Commit%20Activity" />
 
 </p>
+
 ---
 
 # ⭐ Featured Projects
