@@ -9,16 +9,16 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
     <img src="https://komarev.com/ghpvc/?username=RoshniUndhad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/RoshniUndhad?tab=followers">
-    <img src="https://img.shields.io/github/followers/RoshniUndhad?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/RoshniUndhad?label=Followers&style=flat-square&color=007ec6" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/RoshniUndhad?tab=repositories">
-    <img src="https://img.shields.io/github/stars/RoshniUndhad?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/RoshniUndhad?label=Stars&style=flat-square&color=dfb317" alt="GitHub Stars" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RoshniUndhad">
-    <img src="https://img.shields.io/badge/GitHub-RoshniUndhad-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-RoshniUndhad-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:roshaniundhad@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -32,18 +32,13 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 
 ## 👩‍💻 About Me
 
-```text
-🎓 Computer Engineering Student
-💻 Full-Stack Developer
-🤖 Machine Learning & Data Science Enthusiast
-🔐 Interested in Behavioral Biometrics & Authentication
-🚀 Building practical software projects
-🌱 Always learning and improving
-```
-
+* 🎓 **Computer Engineering Student**
+* 💻 **Full-Stack Developer**
+* 🤖 **Machine Learning & Data Science Enthusiast**
+* 🔐 **Interested in Behavioral Biometrics & Authentication**
+* 🚀 **Building practical software projects**
 * 🔭 Currently working on **Full-Stack Web Applications & Behavioral Biometrics Systems**
 * 🌱 Currently learning **Data Science, Machine Learning & Data Analytics**
-* 💡 Interested in **AI, ML, Web Development, Android & Software Engineering**
 * 👯 Looking to collaborate on **Open-Source React/Python Projects & Hackathons**
 * 📫 Reach me at **[roshaniundhad@gmail.com](mailto:roshaniundhad@gmail.com)**
 * ⚡ Fun fact: **I enjoy turning ideas into working projects.**
@@ -53,13 +48,11 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 ## 🚀 Current Focus
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Software%20Engineering-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-007ACC?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
@@ -67,51 +60,36 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" />
 </p>
 
 ### 🌐 Web Development
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,express,bootstrap,tailwind" />
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,express,bootstrap,tailwind" />
 </p>
 
 ### 🤖 AI / Data Science
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
 </p>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib" />
 </p>
 
 ### 🗄️ Databases
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
 ### 📱 Tools & Platforms
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,linux" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,linux" />
 </p>
 
 ---
@@ -119,10 +97,7 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=RoshniUndhad&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="Roshni's GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=RoshniUndhad&theme=transparent&hide_border=true&border_radius=10&date_format=M%20j%5N%2C%20Y" alt="Roshni's GitHub Streak" />
 </p>
 
 ---
@@ -130,11 +105,7 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 ## 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/58a6ff/RoshniUndhad"
-    alt="Roshni Undhad's GitHub Contribution Calendar"
-    width="100%"
-  />
+  <img src="https://ghchart.rshah.org/007ACC/RoshniUndhad" alt="Roshni Undhad's GitHub Contribution Calendar" width="100%" />
 </p>
 
 ---
@@ -142,23 +113,13 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 # 📊 GitHub Profile Summary
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshniUndhad&theme=tokyonight"
-    alt="GitHub Profile Details"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshniUndhad&theme=solarized_light#gh-light-mode-only" alt="GitHub Profile Details Light" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoshniUndhad&theme=dark#gh-dark-mode-only" alt="GitHub Profile Details Dark" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoshniUndhad&theme=tokyonight"
-    alt="Repositories Per Language"
-    width="49%"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoshniUndhad&theme=tokyonight"
-    alt="Most Commit Language"
-    width="49%"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoshniUndhad&theme=transparent" alt="Repositories Per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RoshniUndhad&theme=transparent" alt="Most Commit Language" width="49%" />
 </p>
 
 ---
@@ -166,11 +127,9 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 ## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://img.shields.io/github/followers/RoshniUndhad?style=for-the-badge&logo=github&label=Followers" />
-<img src="https://img.shields.io/github/stars/RoshniUndhad?style=for-the-badge&logo=github&label=Stars" />
-<img src="https://img.shields.io/github/commit-activity/y/RoshniUndhad?style=for-the-badge&logo=github&label=Commit%20Activity" />
-
+  <img src="https://img.shields.io/github/followers/RoshniUndhad?style=for-the-badge&logo=github&label=Followers&color=007ACC" />
+  <img src="https://img.shields.io/github/stars/RoshniUndhad?style=for-the-badge&logo=github&label=Stars&color=DFB317" />
+  <img src="https://img.shields.io/github/commit-activity/y/RoshniUndhad?style=for-the-badge&logo=github&label=Commit%20Activity&color=28A745" />
 </p>
 
 ---
@@ -187,7 +146,7 @@ A project focused on Odoo-based application development and customization.
 
 <p>
 <a href="https://github.com/RoshniUndhad/odoo_castme">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Project-007ACC?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
@@ -201,7 +160,7 @@ Custom Odoo development and application customization project.
 
 <p>
 <a href="https://github.com/RoshniUndhad/custom_odoo">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Project-007ACC?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
@@ -218,7 +177,7 @@ Technical documentation and project-related work.
 
 <p>
 <a href="https://github.com/RoshniUndhad/documentation">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Project-007ACC?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
@@ -232,7 +191,7 @@ Explore all of my repositories and experiments.
 
 <p>
 <a href="https://github.com/RoshniUndhad?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-0e75b6?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
@@ -240,6 +199,7 @@ Explore all of my repositories and experiments.
 
 </tr>
 </table>
+
 ---
 
 # 📌 What I'm Building
@@ -283,14 +243,12 @@ Building practical applications with:
 # 📚 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analytics-2C8EBB?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20Learning-412991?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Backend-000000?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/System%20Design-4285F4?style=flat-square&logo=google&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-2C8EBB?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-412991?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
 
 ---
@@ -298,19 +256,15 @@ Building practical applications with:
 # 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/RoshniUndhad">
-<img src="https://img.shields.io/badge/GitHub-RoshniUndhad-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/roshani-undhad-1aa314344">
-<img src="https://img.shields.io/badge/LinkedIn-Roshni%20Undhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:roshaniundhad@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-roshaniundhad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://github.com/RoshniUndhad">
+    <img src="https://img.shields.io/badge/GitHub-RoshniUndhad-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/roshani-undhad-1aa314344">
+    <img src="https://img.shields.io/badge/LinkedIn-Roshni%20Undhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:roshaniundhad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-roshaniundhad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -318,9 +272,7 @@ Building practical applications with:
 # 💭 Developer Mindset
 
 <p align="center">
-  <i>
-    "Build. Learn. Break. Fix. Repeat."
-  </i>
+  <i>"Build. Learn. Break. Fix. Repeat."</i>
 </p>
 
 <p align="center">
@@ -328,5 +280,5 @@ Building practical applications with:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" alt="Footer Wave" />
 </p>
