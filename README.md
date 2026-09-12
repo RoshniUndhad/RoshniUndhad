@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Roshani Undhad</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshniundhad&label=Profile%20views&color=0e75b6&style=flat" alt="roshniundhad" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RoshniUndhad&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshniundhad" alt="roshniundhad" /></a> </p>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RoshniUndhad&theme=flat&column=6" alt="Roshni's Trophies" />
+  </a>
+</p>
 - 🔭 I’m currently working on **Full-Stack Web Apps & Behavioral Biometrics Systems**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning Algorithms & Data Analytics**
