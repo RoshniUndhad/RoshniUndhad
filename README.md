@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roshani Undhad</h1>
+<h1 align="center">Hi 👋, I'm Roshni Undhad</h1>
 <h3 align="center">Computer Engineering Student | Full-Stack & ML SDE</h3>
 
 <p align="center">
