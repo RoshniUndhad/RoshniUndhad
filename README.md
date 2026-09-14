@@ -94,10 +94,14 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 
 ---
 
-# 🔥 GitHub Contribution Streak
+## 📅 GitHub Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RoshniUndhad&theme=transparent&hide_border=true&border_radius=10&date_format=M%20j%5N%2C%20Y" alt="Roshni's GitHub Streak" />
+  <img
+    src="./contributions.svg"
+    alt="GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
 
 ---
