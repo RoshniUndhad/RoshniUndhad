@@ -105,8 +105,8 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 # 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img 
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
+  <img
+    src="https://github.pumbas.net/api/contributions/RoshniUndhad"
     alt="Roshni Undhad GitHub Contribution Calendar"
     width="100%"
   />
