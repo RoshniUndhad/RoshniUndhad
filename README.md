@@ -102,10 +102,14 @@ Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 
 ---
 
-## 📅 GitHub Contribution Calendar
+# 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/007ACC/RoshniUndhad" alt="Roshni Undhad's GitHub Contribution Calendar" width="100%" />
+  <img 
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="Roshni Undhad GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
 
 ---
